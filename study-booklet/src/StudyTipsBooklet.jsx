@@ -60,7 +60,7 @@ export default function StudyTipsBooklet() {
       <main>
         <p>
           A quick, AI-assisted guide for college students to study smarter.
-          Replace images below with your AI-generated illustrations, then click
+         Click
           <span style={{ fontWeight: "bold" }}> Print / Save as PDF</span> to
           export.
         </p>
